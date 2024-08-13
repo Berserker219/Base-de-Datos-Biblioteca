@@ -1,18 +1,19 @@
 # Sistema-Gestion-Biblioteca
 # Entidades:
-Usuarios
-Libros
-Autores
-Categorías
-Préstamos
-Reservas
-Historial de Préstamos
-Multas
-Editoriales
-Ejemplares
-Sedes (si la biblioteca tiene varias ubicaciones)
-Personal (para gestionar los empleados de la biblioteca)
-# Reglas de Negocio
+- Usuarios
+- Libros
+- Autores
+- Categorías
+- Préstamos
+- Reservas
+- Historial de Préstamos
+- Multas
+- Editoriales
+- Ejemplares
+- Sedes (si la biblioteca tiene varias ubicaciones)
+- Personal (para gestionar los empleados de la biblioteca)
+
+# Reglas de Negocio:
 
 # Usuarios:
 Cada usuario puede tener un máximo de 5 libros prestados al mismo tiempo.
