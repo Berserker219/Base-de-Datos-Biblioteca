@@ -1,6 +1,6 @@
 # Sistema-Gestion-Biblioteca
 Entidades: Libros, Autores, Usuarios, Préstamos, Categorías.
-Reglas de Negocio:
+ # Reglas de Negocio:
 - Un libro puede tener múltiples autores.
 - Un usuario puede prestar hasta 5 libros a la vez.
 - Los libros deben devolverse en un plazo de 15 días.
