@@ -1,5 +1,5 @@
 # Sistema-Gestion-Biblioteca
-<<<<<<< HEAD
+
 Entidades: Libros, Autores, Usuarios, Préstamos, Categorías.
 # Reglas de Negocio:
 - Un libro puede tener múltiples autores.
@@ -7,7 +7,7 @@ Entidades: Libros, Autores, Usuarios, Préstamos, Categorías.
 - Los libros deben devolverse en un plazo de 15 días.
 - Los usuarios tienen un límite de 2 renovaciones por libro.
 - Las categorías pueden ser jerárquicas (una categoría puede tener subcategorías).
-=======
+
 # Entidades:
 - Usuarios
 - Libros
@@ -75,4 +75,4 @@ Los usuarios pueden realizar préstamos y devoluciones en cualquier sede.
 # Personal:
 El personal de la biblioteca puede gestionar préstamos, devoluciones, multas, y el inventario de libros.
 Se deben registrar las acciones del personal para fines de auditoría.
->>>>>>> 6453282282b7acdd1a997895e4c8a98235abc977
+
