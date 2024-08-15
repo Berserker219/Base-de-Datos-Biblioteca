@@ -1,4 +1,4 @@
-# Sistema-Gestion-Biblioteca
+# Base de Datos Biblioteca
 
 # Entidades:
 - Usuarios
