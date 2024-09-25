@@ -11,7 +11,6 @@
 - Multas
 - Editoriales
 - Ejemplares
-- Sedes (si la biblioteca tiene varias ubicaciones)
 - Personal (para gestionar los empleados de la biblioteca)
 
 # Reglas de Negocio:
@@ -59,10 +58,6 @@ Las editoriales pueden estar relacionadas con múltiples libros.
 # Ejemplares:
 Cada libro puede tener múltiples ejemplares, identificados por un número único de ejemplar.
 Los ejemplares pueden estar distribuidos en diferentes sedes de la biblioteca.
-
-# Sedes:
-Si la biblioteca tiene varias sedes, cada sede debe gestionar su inventario de ejemplares.
-Los usuarios pueden realizar préstamos y devoluciones en cualquier sede.
 
 # Personal:
 El personal de la biblioteca puede gestionar préstamos, devoluciones, multas, y el inventario de libros.
